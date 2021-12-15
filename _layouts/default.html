@@ -20,15 +20,14 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        
+        <p><small><a href="https://github.com/kalleyhuang/">GitHub</a> | {{ site.description }} | Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </header>
       <section>
 
       {{ content }}
 
       </section>
-      <footer>
-        <p><small>{{ site.description }} | Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
