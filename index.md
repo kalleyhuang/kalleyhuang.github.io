@@ -14,4 +14,4 @@ In Dallas, I told stories about communities of color and social movements. I rep
 
 In El Paso, I wrote about [trauma surgeons](https://www.elpasotimes.com/story/news/local/el-paso/2020/08/01/el-paso-august-3-2019-walmart-mass-shooting-trauma-surgeons-umc-recall-shock-aftermath/5540583002/) who cared for the victims of the Walmart mass shooting and broke news on the death of a [Mexican woman](https://www.elpasotimes.com/story/news/2020/08/10/family-mexican-woman-who-fell-border-wall-nm-seeks-answers/3319763001/) after she reportedly fell from a border fence.
 
-Reach me at [kalleyhuang8@gmail.com](mailto:kalleyhuang8@gmail.com).
+Reach me at [kalleyhuang8@gmail.com](mailto:kalleyhuang8@gmail.com). My [Twitter](https://twitter.com/KalleyHuang) and [GitHub](https://github.com/kalleyhuang/) are @Kalley Huang.
